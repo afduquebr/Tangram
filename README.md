@@ -51,7 +51,8 @@ completar con éxito las figuras precargardas por el programa, éste indicará s
   
   3. Para interactuar con las figuras puede trasladarlas sobre la ventana o rotarlas sobre su propio eje.
       
-      1. Para trasladarlas es necesario que seleccione la figura que desea mover y mantenga oprimido el mouse hasta llegar a la posición deseada. 
+      1. Para trasladarlas es necesario que seleccione la figura que desea mover y mantenga oprimido el mouse hasta llegar a la posición deseada. Evite trasladar
+      la figura sobreponiendola sobre las demás o puede que esta deje de moverse.
       
       2. Para rotarlas debe ubicar el cursor sobre la figura que desea gira y luego presione la tecla ```R``` para el sentido horario, o la tecla ```L``` para el 
       sentido antihorario.
